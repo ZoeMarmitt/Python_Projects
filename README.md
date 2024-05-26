@@ -16,4 +16,8 @@ Running_MoCap_Data:
 1. Calculate the average joint angles across strides for the hip, knee, and ankle during stance phase.
 2. Plot the average joint angle time series data in each plane.
 3. Calculate the average vertical ground reaction force (GRF) or y-axis.
-4. Plot the vertical GFRs time series data. 
+4. Plot the vertical GFRs time series data.
+
+Treadmill_Data_Vaporfly
+
+***GOAL:** Process biomechanical data extracted from the plantar pressure treadmill
